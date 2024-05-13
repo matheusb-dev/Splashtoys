@@ -35,11 +35,11 @@
     }
 
     .hero_img-container {
-        width: 120%;
+        width: 100%;
     }
 
     .top_container::before {
-        width: 120%;
+        width: 100%;
 
     }
 
