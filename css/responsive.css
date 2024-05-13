@@ -30,7 +30,7 @@
     }
 
     .hero_detail-box {
-        width: 100%;
+        width: 150%;
         margin-bottom: 45px;
     }
 
@@ -39,7 +39,7 @@
     }
 
     .top_container::before {
-        width: 120%;
+        width: 110%;
 
     }
 
