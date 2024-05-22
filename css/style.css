@@ -2,7 +2,7 @@ body {
   font-family: 'Poppins', sans-serif;
 
   color: #48494a;
-  background-image: url(../images/body-bg.jpg);
+  background-image: url(../images/body00.png);
   background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -82,14 +82,23 @@ nav.navbar.navbar-expand-lg {
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 20px;
-  color: #2d2c2c;
+  color: #ffffff;
   font-size: 15px;
   text-align: center;
   text-transform: uppercase;
+  margin: 10px;
+
+  background-color: #144c76;
+  border: 1px solid transparent;
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 10px;
+  font-size: 15px;
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-item.active .nav-link {
-  color: #232323;
+  color: #ffffff;
 }
 
 a,
@@ -195,7 +204,10 @@ a:focus {
 }
 
 .hero_img-container {
-  width: 55%;
+  width: 35%;
+  height: 20%;
+ 
+  bottom: 25%;
 }
 
 .hero_detail-box {
